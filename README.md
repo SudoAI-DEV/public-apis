@@ -1714,6 +1714,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 <br >
+| [StatOrigin](https://statorigin.org) | Sourced industry statistics for 32 industries; every figure traces back to its publisher, report and quote. Public REST API, no key | No | Yes |
 <br >
 ### Open Source Projects
 API | Description | Auth | HTTPS | CORS |
